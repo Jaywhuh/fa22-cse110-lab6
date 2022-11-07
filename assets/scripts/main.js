@@ -73,7 +73,7 @@ function saveRecipesToStorage(recipes) {
  */
 function initFormHandler() {
 
-  // B2. TODO - Get a reference to the <form> element
+  // B2. TODO - Get a reference to the <form> element.
   let formEl = document.querySelector("form");
   
   
